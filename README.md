@@ -1,7 +1,7 @@
 # Melodic_harmonization_UI
 A repository for gathering infos and examples about melodic harmonization web UI
 
-Piano Roll - editable UIs <br>
+Piano Roll / Sequencers editable UIs <br>
 https://musiclab.chromeexperiments.com/Song-Maker/ <br>
 https://www.beepbox.co/ <br>
 
