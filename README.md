@@ -9,3 +9,7 @@ https://flat.io <br>
 # Midi player
 https://logue.dev/smfplayer.js/ <br>
 https://midiplayer.ehubsoft.net/ <br>
+
+# Other 
+https://www.abcjs.net/ <br>
+https://www.vexflow.com/ <br>
